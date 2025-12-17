@@ -1,3 +1,3 @@
 # Data Analyst
 
-Master in data modeling and visualization.
+Master in data modeling, analysis and visualization.
